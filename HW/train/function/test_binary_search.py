@@ -51,4 +51,5 @@ class TestBinarySearch(unittest.TestCase):
 
 
 if __name__ == "__main__":
+    print("this is my fucntion")
     unittest.main()

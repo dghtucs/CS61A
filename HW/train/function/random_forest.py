@@ -24,6 +24,7 @@ def generate_data():
 
 
 def train_random_forest(X, y):
+    # function random_forest.py is an
     """训练随机森林分类器。"""
     model = RandomForestClassifier(
         n_estimators=100,
